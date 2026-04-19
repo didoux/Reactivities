@@ -1,0 +1,17 @@
+/Users/didoux/udemy/workspace/complete-guide-to-building-an-app-with-net-core-and-react/Reactivities/Application/bin/Debug/net10.0/Application.deps.json
+/Users/didoux/udemy/workspace/complete-guide-to-building-an-app-with-net-core-and-react/Reactivities/Application/bin/Debug/net10.0/Application.dll
+/Users/didoux/udemy/workspace/complete-guide-to-building-an-app-with-net-core-and-react/Reactivities/Application/bin/Debug/net10.0/Application.pdb
+/Users/didoux/udemy/workspace/complete-guide-to-building-an-app-with-net-core-and-react/Reactivities/Application/bin/Debug/net10.0/Domain.dll
+/Users/didoux/udemy/workspace/complete-guide-to-building-an-app-with-net-core-and-react/Reactivities/Application/bin/Debug/net10.0/Persistence.dll
+/Users/didoux/udemy/workspace/complete-guide-to-building-an-app-with-net-core-and-react/Reactivities/Application/bin/Debug/net10.0/Domain.pdb
+/Users/didoux/udemy/workspace/complete-guide-to-building-an-app-with-net-core-and-react/Reactivities/Application/bin/Debug/net10.0/Persistence.pdb
+/Users/didoux/udemy/workspace/complete-guide-to-building-an-app-with-net-core-and-react/Reactivities/Application/obj/Debug/net10.0/Application.csproj.AssemblyReference.cache
+/Users/didoux/udemy/workspace/complete-guide-to-building-an-app-with-net-core-and-react/Reactivities/Application/obj/Debug/net10.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/didoux/udemy/workspace/complete-guide-to-building-an-app-with-net-core-and-react/Reactivities/Application/obj/Debug/net10.0/Application.AssemblyInfoInputs.cache
+/Users/didoux/udemy/workspace/complete-guide-to-building-an-app-with-net-core-and-react/Reactivities/Application/obj/Debug/net10.0/Application.AssemblyInfo.cs
+/Users/didoux/udemy/workspace/complete-guide-to-building-an-app-with-net-core-and-react/Reactivities/Application/obj/Debug/net10.0/Application.csproj.CoreCompileInputs.cache
+/Users/didoux/udemy/workspace/complete-guide-to-building-an-app-with-net-core-and-react/Reactivities/Application/obj/Debug/net10.0/Applicat.44B5EDA2.Up2Date
+/Users/didoux/udemy/workspace/complete-guide-to-building-an-app-with-net-core-and-react/Reactivities/Application/obj/Debug/net10.0/Application.dll
+/Users/didoux/udemy/workspace/complete-guide-to-building-an-app-with-net-core-and-react/Reactivities/Application/obj/Debug/net10.0/refint/Application.dll
+/Users/didoux/udemy/workspace/complete-guide-to-building-an-app-with-net-core-and-react/Reactivities/Application/obj/Debug/net10.0/Application.pdb
+/Users/didoux/udemy/workspace/complete-guide-to-building-an-app-with-net-core-and-react/Reactivities/Application/obj/Debug/net10.0/ref/Application.dll

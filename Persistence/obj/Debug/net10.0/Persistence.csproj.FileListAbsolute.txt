@@ -1,0 +1,15 @@
+/Users/didoux/udemy/workspace/complete-guide-to-building-an-app-with-net-core-and-react/Reactivities/Persistence/bin/Debug/net10.0/Persistence.deps.json
+/Users/didoux/udemy/workspace/complete-guide-to-building-an-app-with-net-core-and-react/Reactivities/Persistence/bin/Debug/net10.0/Persistence.dll
+/Users/didoux/udemy/workspace/complete-guide-to-building-an-app-with-net-core-and-react/Reactivities/Persistence/bin/Debug/net10.0/Persistence.pdb
+/Users/didoux/udemy/workspace/complete-guide-to-building-an-app-with-net-core-and-react/Reactivities/Persistence/bin/Debug/net10.0/Domain.dll
+/Users/didoux/udemy/workspace/complete-guide-to-building-an-app-with-net-core-and-react/Reactivities/Persistence/bin/Debug/net10.0/Domain.pdb
+/Users/didoux/udemy/workspace/complete-guide-to-building-an-app-with-net-core-and-react/Reactivities/Persistence/obj/Debug/net10.0/Persistence.csproj.AssemblyReference.cache
+/Users/didoux/udemy/workspace/complete-guide-to-building-an-app-with-net-core-and-react/Reactivities/Persistence/obj/Debug/net10.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/didoux/udemy/workspace/complete-guide-to-building-an-app-with-net-core-and-react/Reactivities/Persistence/obj/Debug/net10.0/Persistence.AssemblyInfoInputs.cache
+/Users/didoux/udemy/workspace/complete-guide-to-building-an-app-with-net-core-and-react/Reactivities/Persistence/obj/Debug/net10.0/Persistence.AssemblyInfo.cs
+/Users/didoux/udemy/workspace/complete-guide-to-building-an-app-with-net-core-and-react/Reactivities/Persistence/obj/Debug/net10.0/Persistence.csproj.CoreCompileInputs.cache
+/Users/didoux/udemy/workspace/complete-guide-to-building-an-app-with-net-core-and-react/Reactivities/Persistence/obj/Debug/net10.0/Persiste.61C28332.Up2Date
+/Users/didoux/udemy/workspace/complete-guide-to-building-an-app-with-net-core-and-react/Reactivities/Persistence/obj/Debug/net10.0/Persistence.dll
+/Users/didoux/udemy/workspace/complete-guide-to-building-an-app-with-net-core-and-react/Reactivities/Persistence/obj/Debug/net10.0/refint/Persistence.dll
+/Users/didoux/udemy/workspace/complete-guide-to-building-an-app-with-net-core-and-react/Reactivities/Persistence/obj/Debug/net10.0/Persistence.pdb
+/Users/didoux/udemy/workspace/complete-guide-to-building-an-app-with-net-core-and-react/Reactivities/Persistence/obj/Debug/net10.0/ref/Persistence.dll

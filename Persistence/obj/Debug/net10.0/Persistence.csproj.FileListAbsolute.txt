@@ -13,3 +13,4 @@
 /Users/didoux/udemy/workspace/complete-guide-to-building-an-app-with-net-core-and-react/Reactivities/Persistence/obj/Debug/net10.0/refint/Persistence.dll
 /Users/didoux/udemy/workspace/complete-guide-to-building-an-app-with-net-core-and-react/Reactivities/Persistence/obj/Debug/net10.0/Persistence.pdb
 /Users/didoux/udemy/workspace/complete-guide-to-building-an-app-with-net-core-and-react/Reactivities/Persistence/obj/Debug/net10.0/ref/Persistence.dll
+/Users/didoux/udemy/workspace/complete-guide-to-building-an-app-with-net-core-and-react/Reactivities/Persistence/obj/Debug/net10.0/Persistence.sourcelink.json

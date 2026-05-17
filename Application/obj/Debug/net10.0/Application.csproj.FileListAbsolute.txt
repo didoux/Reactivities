@@ -15,3 +15,4 @@
 /Users/didoux/udemy/workspace/complete-guide-to-building-an-app-with-net-core-and-react/Reactivities/Application/obj/Debug/net10.0/refint/Application.dll
 /Users/didoux/udemy/workspace/complete-guide-to-building-an-app-with-net-core-and-react/Reactivities/Application/obj/Debug/net10.0/Application.pdb
 /Users/didoux/udemy/workspace/complete-guide-to-building-an-app-with-net-core-and-react/Reactivities/Application/obj/Debug/net10.0/ref/Application.dll
+/Users/didoux/udemy/workspace/complete-guide-to-building-an-app-with-net-core-and-react/Reactivities/Application/obj/Debug/net10.0/Application.sourcelink.json
